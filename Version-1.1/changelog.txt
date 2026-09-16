@@ -1,0 +1,5 @@
+* Game Version: 1.1.2.4 - Mod Version: 1.0.1
+- Beam fade-in over bottom 1 meter (alpha 0 to 0.8) via 3-vertex gradient.
+- Removed unused RayRotator and AssetBundle build script.
+* Game Version: 1.1.2.4 - Mod Version: 1.0.0
+- Initial release. Replaces beaver selection highlight with golden circle and vertical line.

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>highlighttweaks</AssemblyName>
+    <RootNamespace>Calloatti.HighlightTweaks</RootNamespace>
+    <TimberbornPath>C:\Program Files (x86)\Steam\steamapps\common\timberborn_public\Timberborn_Data\Managed</TimberbornPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Publicize Include="Timberborn.SelectionSystem" />
+    <Publicize Include="Timberborn.Characters" />
+  </ItemGroup>
+
+  <Import Project="CommonModSettings.props" />
+
+  <ItemGroup>
+    <Compile Remove="Editor\**" />
+  </ItemGroup>
+
+</Project>

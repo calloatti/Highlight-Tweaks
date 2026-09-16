@@ -1,0 +1,1 @@
+Replaces the selected beaver highlight with a golden circle and a vertical line.

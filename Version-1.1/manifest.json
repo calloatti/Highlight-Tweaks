@@ -1,0 +1,9 @@
+{
+  "Name": "Highlight Tweaks",
+  "Version": "1.0.1",
+  "Id": "Calloatti.HighlightTweaks",
+  "MinimumGameVersion": "1.1.2.4",
+  "Description": "Replaces the selected beaver highlight with a golden circle and a vertical line.",
+  "RequiredMods": [{"Id": "Harmony", "MinVersion": "2.4.1"}],
+  "OptionalMods": []
+}
